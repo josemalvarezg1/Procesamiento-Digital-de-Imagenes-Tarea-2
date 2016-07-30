@@ -19,4 +19,5 @@ Al presionar el botón "Guardar imagen" se abrirá un panel donde se debe ingres
 ## Integrantes
 
 **José Manuel Alvarez García - CI 25038805**
+
 **José Gregorio Castro Lazo - CI 24635907**
